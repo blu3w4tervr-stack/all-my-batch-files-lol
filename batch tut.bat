@@ -1,10 +1,23 @@
-@echo off 
-echo hello, welcome to this random batch tut i made
+@echo off
+title batch tut by BLUEW3TERVR
+color A
 pause
-echo so like whenver you wanna start a batch, start it like this "@echo off", you know what, just watch this video im done making thee batch tuts, where you just press eneter 1 million time
-start https://www.youtube.com/watch?v=LcF8mcoMoqE
+start https://discord.gg/GaeUBjqkbG
+echo i sent you to the link so you can see my softwares and tuts!!!!!!!!
 pause
-echo you watched the video right?, well press enter to exit this program, and run it in triage (you need an account, and up you need to upload it)
+echo any way you wanna start with @echo off
 pause
-start https://tria.ge/dashboard
-exit
+echo anyways type Title and then your title to change the Title
+pause
+echo after that type color if you wanna change the color 
+pause
+echo download notepad ++ for the best experice
+pause
+start https://notepad-plus-plus.org/downloads/
+pause
+echo you got sent to the notepad ++ download 
+pause
+echo if your coding c# click languge then c# adn same with batch but its in B
+pause
+start https://www.youtube.com/@ebolaman_
+echo watch the guys videos for more lerning and piece!!!!!!!!!!!!!!! lemme know if you wanna a pt 2
